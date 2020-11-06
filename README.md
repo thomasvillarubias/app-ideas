@@ -43,7 +43,7 @@ required to complete them.
 
 | Name                                                                              | Short Description                                          | Tier       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         | 1-Beginner |
+| [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | ✔ Binary-to-Decimal number converter                         | 1-Beginner |
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Beginner |
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Beginner |
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Beginner |
@@ -62,7 +62,7 @@ required to complete them.
 | [JSON2CSV App](./Projects/1-Beginner/JSON2CSV-App.md)                             | JSON to CSV converter                                      | 1-Beginner |
 | [Key Value](./Projects/1-Beginner/Key-Value-App.md)                               | Keyboard Event Values                                      | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/1-Beginner/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                      | 1-Beginner |
-| [Notes App](./Projects/1-Beginner/Notes-App.md)                                   | Create an online note pad                                  | 1-Beginner |
+| [Notes App](./Projects/1-Beginner/Notes-App.md)                                   | ✔ Create an online note pad                                  | 1-Beginner |
 | [Pearson Regression](./Projects/1-Beginner/Pearson-Regression-App.md)             | Calculate the correlation coefficient for two sets of data | 1-Beginner |
 | [Pomodoro Clock](./Projects/1-Beginner/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                    | 1-Beginner |
 | [Product Landing Page](./Projects/1-Beginner/Product-Landing-Page.md)             | Showcase product details for possible buyers               | 1-Beginner |
@@ -83,6 +83,7 @@ required to complete them.
 
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
+| Tic Tac Toe                           | ✔ A game of Tic Tac Toe with AI option | 2-Intermediate |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediate |
